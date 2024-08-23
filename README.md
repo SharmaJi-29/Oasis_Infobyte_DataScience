@@ -4,7 +4,7 @@ Welcome to the GitHub repository for the Data Science Internship at Oasis Infoby
 
 ## Table of Contents
 
-- [About Cognifyz](#about-cognifyz)
+- [About Oasis Infobyte](#about-Oasis-Infobyte)
 - [Internship Overview](#internship-overview)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
@@ -42,6 +42,7 @@ Task 5 : Sales Prediction Analysis - Sales prediction means predicting how much 
 
 ## Project Structure
 
+```plaintext
 .
 ├── data/
 │   ├── raw/            # Raw datasets
@@ -52,14 +53,15 @@ Task 5 : Sales Prediction Analysis - Sales prediction means predicting how much 
 ├── visuals/            # Visualizations and dashboards
 ├── README.md           # This README file
 └── requirements.txt    # Python dependencies
-Getting Started
+```
+
 
 ## Prerequisites
 
 Before you begin, ensure you have the following tools installed:
 
-Python 3.x
-Jupyter Notebook
+- [Python 3.x](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/)
 
 ## Benifits 
 
@@ -71,18 +73,18 @@ Jupyter Notebook
 
 We encourage you to contribute to the projects by following these steps:
 
-Fork the repository
-Create a new branch (git checkout -b feature/YourFeatureName)
-Commit your changes (git commit -m 'Add some feature')
-Push to the branch (git push origin feature/YourFeatureName)
-Create a Pull Request
+1. **Fork the repository**
+2. **Create a new branch** (`git checkout -b feature/YourFeatureName`)
+3. **Commit your changes** (`git commit -m 'Add some feature'`)
+4. **Push to the branch** (`git push origin feature/YourFeatureName`)
+5. **Create a Pull Request**
 
 ## Resources
 
-Python Documentation
-Pandas Documentation
-Matplotlib Documentation
-Scikit-learn Documentation
-Jupyter Notebook Documentation
+- [Python Documentation](https://docs.python.org/3/)
+- [Pandas Documentation](https://pandas.pydata.org/)
+- [Matplotlib Documentation](https://matplotlib.org/)
+- [Scikit-learn Documentation](https://scikit-learn.org/)
+- [Jupyter Notebook Documentation](https://jupyter.org/documentation)
 
 This README provides a comprehensive overview for interns starting at Cognifyz, guiding them through the setup process, project structure, and resources. Adjust the content as needed to match specific details related to the internship.
