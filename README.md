@@ -4,13 +4,13 @@ Welcome to the GitHub repository for the Data Science Internship at Oasis Infoby
 
 ## Table of Contents
 
-About Oasis Infobyte
-Internship Overview
-Project Structure
-Getting Started
-Prerequisites
-How to Contribute
-Resources
+- [About Cognifyz](#about-cognifyz)
+- [Internship Overview](#internship-overview)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [How to Contribute](#how-to-contribute)
+- [Resources](#resources)
 
 ## About Oasis Infobyte
 
